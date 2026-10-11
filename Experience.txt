@@ -1,0 +1,13 @@
+My name is Nutan Kumar. I have around 12 years of overall professional experience, with a strong focus on IT infrastructure and DevOps-related technologies.
+
+In my recent role at PowerHF India Pvt. Ltd., I worked as an Area Service Manager. My responsibilities included infrastructure operations, issue resolution, team coordination, service monitoring, reporting, and maintaining service availability.
+
+I have experience and practical knowledge of Linux, Git, GitHub, Docker, Kubernetes, Terraform, Jenkins, CI/CD pipelines, Python scripting, Prometheus, and Grafana.
+
+I understand how to automate infrastructure provisioning using Terraform, build and deploy applications through CI/CD pipelines, manage containers using Docker and Kubernetes, and monitor application and infrastructure health using Prometheus and Grafana.
+
+I am also familiar with cloud infrastructure, troubleshooting, deployment processes, and production support.
+
+My strengths are problem-solving, learning new technologies, teamwork, and handling operational issues.
+
+Now, I am looking for an opportunity where I can contribute my infrastructure and DevOps skills, improve automation, and help maintain stable and reliable production environments.
